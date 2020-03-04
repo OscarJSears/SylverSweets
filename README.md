@@ -1,3 +1,3 @@
 # SylverSweets
 Bakery Website
-ERD Diagrams
+ERD Diagram
