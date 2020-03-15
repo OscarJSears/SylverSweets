@@ -20,4 +20,3 @@
 - Same as the About Us that does the exact same as the About menu button. 
 
 - Below all that is the Contact Us. This will allow the customer to leave a review or just contact us for any assistance needed. 
-https://app.diagrams.net/#
