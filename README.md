@@ -20,9 +20,8 @@
 - Same as the About Us that does the exact same as the About menu button. 
 
 - Below all that is the Contact Us. This will allow the customer to leave a review or just contact us for any assistance needed. 
-USER STORY'S: 
 
- 
+USER STORY'S: 
 
 As a Sylver Sweet User, I want to be able to search listed products from the website So that I can make my choice and buy a listed product from the website.   
 
@@ -65,6 +64,3 @@ The admin system will indicate to the user that the user has been charged for th
 The admin system will indicate to the user that the order has been placed. 
 
 The user will exit the system. 
-
-
-[SlyverSweetsulm.pdf](https://github.com/OscarJSears/SylverSweets/files/4333799/SlyverSweetsulm.pdf)
